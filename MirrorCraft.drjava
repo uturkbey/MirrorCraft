@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20160913-225446">
+  <project autorefresh="false" build="classes/" main="MainMenu" root="" work="src/">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="src/MainMenu.java" package="" timestamp="14-May-2017 16:48:40">
+        <select from="3031" to="3031"/>
+        <scroll column="1063" row="0"/>
+      </file>
+      <file name="src/ProjectFrame.java" package="" timestamp="11-May-2017 23:59:10">
+        <select from="3031" to="3031"/>
+        <scroll column="1063" row="0"/>
+      </file>
+      <file name="src/Vec2.java" package="" timestamp="12-May-2017 00:02:36">
+        <select from="3031" to="3031"/>
+        <scroll column="1063" row="0"/>
+      </file>
+      <file name="src/LightRay.java" package="" timestamp="12-May-2017 00:19:08">
+        <select from="3031" to="3031"/>
+        <scroll column="1063" row="0"/>
+      </file>
+      <file name="src/OpticalObject.java" package="" timestamp="14-May-2017 14:25:25">
+        <select from="3031" to="3031"/>
+        <scroll column="1063" row="0"/>
+      </file>
+      <file name="src/PlaneMirror.java" package="" timestamp="14-May-2017 14:53:06">
+        <select from="3031" to="3031"/>
+        <scroll column="1063" row="0"/>
+      </file>
+      <file name="src/OpticalObjectContainer.java" package="" timestamp="14-May-2017 14:53:06">
+        <select from="3031" to="3031"/>
+        <scroll column="1063" row="0"/>
+      </file>
+      <file name="src/ToolPanelFCM.java" package="" timestamp="14-May-2017 16:37:02">
+        <select from="3031" to="3031"/>
+        <scroll column="1063" row="0"/>
+      </file>
+      <file name="src/ChallengePanel.java" package="" timestamp="14-May-2017 16:47:04">
+        <select from="3031" to="3031"/>
+        <scroll column="1063" row="0"/>
+      </file>
+      <file name="src/LinearObstacle.java" package="" timestamp="14-May-2017 16:48:37">
+        <select from="3031" to="3031"/>
+        <scroll column="1063" row="0"/>
+      </file>
+      <file name="src/SimulationPanel.java" package="" timestamp="14-May-2017 17:09:52">
+        <select from="3031" to="3031"/>
+        <scroll column="1063" row="0"/>
+      </file>
+      <file name="src/ToolPanel.java" package="" timestamp="14-May-2017 17:15:20">
+        <select from="3031" to="3031"/>
+        <scroll column="1063" row="0"/>
+      </file>
+      <file name="src/CurvedMirror.java" package="" timestamp="14-May-2017 17:29:44">
+        <select from="3031" to="3031"/>
+        <scroll column="1063" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
