@@ -9,7 +9,7 @@ Ihsan Bugra Erbas
 
 Utku Turkbey
 
-M. Emre Bozkurt
+Mehmet Emre Bozkurt
 
 Osman Guluzade
 
